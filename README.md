@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**DynaudioP/DynaudioP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Muhammad Dynaudio Putra Semono, iam a junior developer
 
 ### Languages and Tools:
 
